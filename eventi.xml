@@ -335,19 +335,6 @@
     <desc lang="it">ATP and WTA: ATP London and WTA Berlin Conference, Day 6</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="IndyNXTSeriesGrandPrixatRoadAmericaPractice2">
-    <display-name>Indy NXT Series Grand Prix at Road America, Practice 2</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621160000 +0200" channel="IndyNXTSeriesGrandPrixatRoadAmericaPractice2">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Indy NXT Series Grand Prix at Road America, Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621160000 +0200" stop="20250621180000 +0200" channel="IndyNXTSeriesGrandPrixatRoadAmericaPractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indy NXT Series Grand Prix at Road America, Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmerica2ndPractice">
     <display-name>IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice</display-name>
   </channel>
