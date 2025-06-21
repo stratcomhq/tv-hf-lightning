@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefaeurou21portugalu21vsnetherlandsu21" tvg-name="Soccer | UEFA Euro U-21 : Portugal U21 vs Netherlands U21 (18:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Portugal U21_vs_Netherlands U21.png" group-title="Eventi Live",Soccer | UEFA Euro U-21 : Portugal U21 vs Netherlands U21 (18:00)
-https://thedaddy.click/stream/stream-354.php
-
-#EXTINF:-1 tvg-id="uefaeurou21portugalu21vsnetherlandsu21" tvg-name="Soccer | UEFA Euro U-21 : Portugal U21 vs Netherlands U21 (18:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Portugal U21_vs_Netherlands U21.png" group-title="Eventi Live",Soccer | UEFA Euro U-21 : Portugal U21 vs Netherlands U21 (18:00)
-https://thedaddy.click/stream/stream-882.php
-
 #EXTINF:-1 tvg-id="chileprimeradivisionuniónespañolavscoquimbounido" tvg-name="Soccer | Chile - Primera Division : Unión Española vs Coquimbo Unido (18:30)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Unión Española_vs_Coquimbo Unido.png" group-title="Eventi Live",Soccer | Chile - Primera Division : Unión Española vs Coquimbo Unido (18:30)
 https://thedaddy.click/stream/stream-642.php
 
@@ -20,7 +14,7 @@ https://thedaddy.click/stream/stream-1.php
 #EXTINF:-1 tvg-id="fifaclubworldcupinternazionalevsurawareds" tvg-name="Soccer | FIFA Club World Cup : Internazionale vs Urawa Reds (21:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Internazionale_vs_Urawa Reds.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Internazionale vs Urawa Reds (21:00)
 https://thedaddy.click/stream/stream-29.php
 
-#EXTINF:-1 tvg-id="uefaeurou21quarterfinal2spainu21vsenglandu21" tvg-name="Soccer | UEFA Euro U21: Quarter Final 2 : Spain U21 vs England U21 (21:00)" tvg-logo="https://png.pngtree.com/png-vector/20221207/ourmid/pngtree-fifa-world-cup-quarter-final-match-schedule-argentina-vs-netherlands-png-image_6514632.png" group-title="Eventi Live",Soccer | UEFA Euro U21: Quarter Final 2 : Spain U21 vs England U21 (21:00)
+#EXTINF:-1 tvg-id="uefaeurou21quarterfinal2spainu21vsenglandu21" tvg-name="Soccer | UEFA Euro U21: Quarter Final 2 : Spain U21 vs England U21 (21:00)" tvg-logo="https://www.zerozero.pt/img/logos/equipas/57584_imgbank_1706734333.png" group-title="Eventi Live",Soccer | UEFA Euro U21: Quarter Final 2 : Spain U21 vs England U21 (21:00)
 https://thedaddy.click/stream/stream-354.php
 
 #EXTINF:-1 tvg-id="spainsegundadivisionrealoviedovsmirandés" tvg-name="Soccer | Spain - Segunda Division : Real Oviedo vs Mirandés (21:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Real Oviedo_vs_Mirandés.png" group-title="Eventi Live",Soccer | Spain - Segunda Division : Real Oviedo vs Mirandés (21:00)
@@ -62,28 +56,13 @@ https://thedaddy.click/stream/stream-325.php
 #EXTINF:-1 tvg-id="nwslnjnygothamfcvsbayfc" tvg-name="Soccer | NWSL : NJ/NY Gotham FC vs Bay FC (01:30)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/NJ/NY Gotham FC_vs_Bay FC.png" group-title="Eventi Live",Soccer | NWSL : NJ/NY Gotham FC vs Bay FC (01:30)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="womensfootballwnfcixcupchampionshipteamstba" tvg-name="AM. Football | Women's Football : WNFC IX Cup Championship: Teams TBA (21:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/677030af600a9a6ee4672abf/e2d66cc2-db82-4c95-b37d-57d0cbe6d1b3/United_Women's_Soccer_logo_red_CMYK.svg.png?format=1000w" group-title="Eventi Live",AM. Football | Women's Football : WNFC IX Cup Championship: Teams TBA (21:00)
+#EXTINF:-1 tvg-id="womensfootballwnfcixcupchampionshipteamstba" tvg-name="AM. Football | Women's Football : WNFC IX Cup Championship: Teams TBA (21:00)" tvg-logo="https://wfaprofootball.com/wp-content/uploads/2020/02/WFA_Logo-4.png" group-title="Eventi Live",AM. Football | Women's Football : WNFC IX Cup Championship: Teams TBA (21:00)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="atpwtaatplondonwtaberlinconferenceday6" tvg-name="Tennis | ATP & WTA: ATP London & WTA Berlin Conference, Day 6 (16:19)" tvg-logo="https://assets.stickpng.com/thumbs/62669d032c88722059d58716.png" group-title="Eventi Live",Tennis | ATP & WTA: ATP London & WTA Berlin Conference, Day 6 (16:19)
-https://thedaddy.click/stream/stream-356.php
-
-#EXTINF:-1 tvg-id="atpwtaatplondonwtaberlinconferenceday6" tvg-name="Tennis | ATP & WTA: ATP London & WTA Berlin Conference, Day 6 (16:19)" tvg-logo="http://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | ATP & WTA: ATP London & WTA Berlin Conference, Day 6 (16:19)
-https://thedaddy.click/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="indycarseriesseasonthexpelgrandprixatroadamerica2ndpractice" tvg-name="Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice (17:00)" tvg-logo="http://roadamerica.tixonlinenow.com/motoadev/image/data/ROADAMERICA/INDYCAR/indycar-dark.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice (17:00)
-https://thedaddy.click/stream/stream-60.php
-
-#EXTINF:-1 tvg-id="indycarseriesseasonthexpelgrandprixatroadamerica2ndpractice" tvg-name="Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice (17:00)" tvg-logo="http://roadamerica.tixonlinenow.com/motoadev/image/data/ROADAMERICA/INDYCAR/indycar-dark.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice (17:00)
-https://thedaddy.click/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="britishgtchampionshipblancpaingtcircuitdespafrancorchampsqualifying" tvg-name="Motorsport | British GT Championship - Blancpain GT Circuit de Spa Francorchamps Qualifying (18:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/circuit-de-spa-francorchamps.png" group-title="Eventi Live",Motorsport | British GT Championship - Blancpain GT Circuit de Spa Francorchamps Qualifying (18:00)
-https://thedaddy.click/stream/stream-60.php
-
-#EXTINF:-1 tvg-id="fimspeedwaygpround6gorzowheatsfinal" tvg-name="Motorsport | FIM Speedway GP | Round 6 | Gorzow Heats & Final (18:30)" tvg-logo="https://usercontent.one/wp/www.malillagp.se/wp-content/uploads/2022/11/cropped-SGP-web-icon.png" group-title="Eventi Live",Motorsport | FIM Speedway GP | Round 6 | Gorzow Heats & Final (18:30)
+#EXTINF:-1 tvg-id="fimspeedwaygpround6gorzowheatsfinal" tvg-name="Motorsport | FIM Speedway GP | Round 6 | Gorzow Heats & Final (18:30)" tvg-logo="https://usercontent.one/wp/www.malillagp.se/wp-content/uploads/2022/11/SGP-2023-Index-logo1-736x736.png?media=1668019709" group-title="Eventi Live",Motorsport | FIM Speedway GP | Round 6 | Gorzow Heats & Final (18:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="indynxtseriesgrandprixatroadamericaqualifying" tvg-name="Motorsport | Indy NXT Series Grand Prix at Road America, Qualifying (19:30)" tvg-logo="https://www.jayhoward.com/wp-content/uploads/2023/01/Indy-NXT-Logo-white.png" group-title="Eventi Live",Motorsport | Indy NXT Series Grand Prix at Road America, Qualifying (19:30)
+#EXTINF:-1 tvg-id="indynxtseriesgrandprixatroadamericaqualifying" tvg-name="Motorsport | Indy NXT Series Grand Prix at Road America, Qualifying (19:30)" tvg-logo="https://nxtsports.com/wp-content/uploads/2023/11/Fall-Grand-Prix-logo.png" group-title="Eventi Live",Motorsport | Indy NXT Series Grand Prix at Road America, Qualifying (19:30)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="indycarseriesseasonthexpelgrandprixatroadamericaqualifying" tvg-name="Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America Qualifying (20:30)" tvg-logo="http://roadamerica.tixonlinenow.com/motoadev/image/data/ROADAMERICA/INDYCAR/indycar-dark.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America Qualifying (20:30)
@@ -92,23 +71,17 @@ https://thedaddy.click/stream/stream-60.php
 #EXTINF:-1 tvg-id="indycarseriesseasonthexpelgrandprixatroadamericaqualifying" tvg-name="Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America Qualifying (20:30)" tvg-logo="http://roadamerica.tixonlinenow.com/motoadev/image/data/ROADAMERICA/INDYCAR/indycar-dark.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The XPEL Grand Prix at Road America Qualifying (20:30)
 https://thedaddy.click/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="nascarxfinityracingseriesexplorethepoconomountains250" tvg-name="Motorsport | NASCAR Xfinity Racing Series Explore the Pocono Mountains 250 (21:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Xfinity-Series-Logo.png" group-title="Eventi Live",Motorsport | NASCAR Xfinity Racing Series Explore the Pocono Mountains 250 (21:30)
+#EXTINF:-1 tvg-id="nascarxfinityracingseriesexplorethepoconomountains250" tvg-name="Motorsport | NASCAR Xfinity Racing Series Explore the Pocono Mountains 250 (21:30)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/NASCARXfinity.vresize.350.350.medium.1.png" group-title="Eventi Live",Motorsport | NASCAR Xfinity Racing Series Explore the Pocono Mountains 250 (21:30)
 https://thedaddy.click/stream/stream-300.php
 
 #EXTINF:-1 tvg-id="nascarxfinityracingseriesexplorethepoconomountains250" tvg-name="Motorsport | NASCAR Xfinity Racing Series Explore the Pocono Mountains 250 (21:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Xfinity-Series-Logo.png" group-title="Eventi Live",Motorsport | NASCAR Xfinity Racing Series Explore the Pocono Mountains 250 (21:30)
 https://thedaddy.click/stream/stream-280.php
 
-#EXTINF:-1 tvg-id="nhradragracingvirginianationals" tvg-name="Motorsport | NHRA Drag Racing Virginia Nationals (22:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhra-powerade-super-bikes-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NHRA Drag Racing Virginia Nationals (22:00)
+#EXTINF:-1 tvg-id="nhradragracingvirginianationals" tvg-name="Motorsport | NHRA Drag Racing Virginia Nationals (22:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/drag-racing-series-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NHRA Drag Racing Virginia Nationals (22:00)
 https://thedaddy.click/stream/stream-54.php
 
 #EXTINF:-1 tvg-id="toprankboxingvitomielnickijrvskamilgardzielik" tvg-name="Boxing | Top Rank Boxing : Vito Mielnicki Jr vs Kamil Gardzielik (01:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Vito Mielnicki Jr_vs_Kamil Gardzielik.png" group-title="Eventi Live",Boxing | Top Rank Boxing : Vito Mielnicki Jr vs Kamil Gardzielik (01:00)
 https://thedaddy.click/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="ufcfightnightprelimsseokhyeonkovsobanelliott" tvg-name="MMA | UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott (18:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Seok Hyeon Ko_vs_Oban Elliott.png" group-title="Eventi Live",MMA | UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott (18:00)
-https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="ufcfightnightprelimsseokhyeonkovsobanelliott" tvg-name="MMA | UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott (18:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Seok Hyeon Ko_vs_Oban Elliott.png" group-title="Eventi Live",MMA | UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott (18:00)
-https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="ufcfightnightmaincardjamahalhillvskhalilrountreejr" tvg-name="MMA | UFC Fight Night Main Card : Jamahal Hill vs Khalil Rountree Jr. (21:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Jamahal Hill_vs_Khalil Rountree Jr..png" group-title="Eventi Live",MMA | UFC Fight Night Main Card : Jamahal Hill vs Khalil Rountree Jr. (21:00)
 https://thedaddy.click/stream/stream-31.php
@@ -122,7 +95,7 @@ https://thedaddy.click/stream/stream-766.php
 #EXTINF:-1 tvg-id="pgatourtravelerschampionship" tvg-name="Golf | PGA Tour Travelers Championship (19:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Travelers Championship (19:00)
 https://thedaddy.click/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="pgatourtravelerschampionship" tvg-name="Golf | PGA Tour Travelers Championship (19:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Travelers Championship (19:00)
+#EXTINF:-1 tvg-id="pgatourtravelerschampionship" tvg-name="Golf | PGA Tour Travelers Championship (19:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Travelers Championship (19:00)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="lpgatourkpmgwomenspgachampionship" tvg-name="Golf | LPGA Tour KPMG Women's PGA Championship (19:00)" tvg-logo="https://assets-global.website-files.com/630fbdaf6751e7b380e52e6e/6553a751778baa3b8e9e28e5_KWPGA_Sahalee_4C.png" group-title="Eventi Live",Golf | LPGA Tour KPMG Women's PGA Championship (19:00)
@@ -137,16 +110,16 @@ https://thedaddy.click/stream/stream-53.php
 #EXTINF:-1 tvg-id="2025kauligcompanieschampionshipthirdroundlive" tvg-name="Golf | 2025 Kaulig Companies Championship Third Round Live (21:00)" tvg-logo="https://tiretowngolfclub.net/wp-content/uploads/2020/09/tgc-750-alt-spot.png" group-title="Eventi Live",Golf | 2025 Kaulig Companies Championship Third Round Live (21:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="pgatourgolftravelerschampionshipthirdround" tvg-name="Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)" tvg-logo="https://loodibee.com/wp-content/uploads/PGA_Tour_logo.png" group-title="Eventi Live",Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)
+#EXTINF:-1 tvg-id="pgatourgolftravelerschampionshipthirdround" tvg-name="Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/pga-tour-logo-black-and-white-1.png" group-title="Eventi Live",Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)
 https://thedaddy.click/stream/stream-767.php
 
-#EXTINF:-1 tvg-id="pgatourgolftravelerschampionshipthirdround" tvg-name="Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/pga-tour-logo-1.png" group-title="Eventi Live",Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)
+#EXTINF:-1 tvg-id="pgatourgolftravelerschampionshipthirdround" tvg-name="Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)" tvg-logo="https://vectorified.com/image/pga-logo-vector-19.png" group-title="Eventi Live",Golf | PGA Tour Golf Travelers Championship, Third Round (21:00)
 https://thedaddy.click/stream/stream-52.php
 
-#EXTINF:-1 tvg-id="lpgatourkpmgwomenspgachampionship" tvg-name="Golf | LPGA Tour KPMG Women's PGA Championship (00:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladies-professional-golf-association-1-logo-png-transparent.png" group-title="Eventi Live",Golf | LPGA Tour KPMG Women's PGA Championship (00:00)
+#EXTINF:-1 tvg-id="lpgatourkpmgwomenspgachampionship" tvg-name="Golf | LPGA Tour KPMG Women's PGA Championship (00:00)" tvg-logo="https://assets-global.website-files.com/630fbdaf6751e7b380e52e6e/6553a751778baa3b8e9e28e5_KWPGA_Sahalee_4C.png" group-title="Eventi Live",Golf | LPGA Tour KPMG Women's PGA Championship (00:00)
 https://thedaddy.click/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="lpgatourkpmgwomenspgachampionship" tvg-name="Golf | LPGA Tour KPMG Women's PGA Championship (00:00)" tvg-logo="https://static.flashscore.com/res/image/data/IwPjhITp-0OuaUycd.png" group-title="Eventi Live",Golf | LPGA Tour KPMG Women's PGA Championship (00:00)
+#EXTINF:-1 tvg-id="lpgatourkpmgwomenspgachampionship" tvg-name="Golf | LPGA Tour KPMG Women's PGA Championship (00:00)" tvg-logo="https://assets-global.website-files.com/630fbdaf6751e7b380e52e6e/6553a751778baa3b8e9e28e5_KWPGA_Sahalee_4C.png" group-title="Eventi Live",Golf | LPGA Tour KPMG Women's PGA Championship (00:00)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="minorleaguebaseballbuffalobisonsvsworcesterredsox" tvg-name="Baseball | Minor League Baseball : Buffalo Bisons vs Worcester Red Sox (22:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Buffalo Bisons_vs_Worcester Red Sox.png" group-title="Eventi Live",Baseball | Minor League Baseball : Buffalo Bisons vs Worcester Red Sox (22:00)
@@ -197,9 +170,6 @@ https://thedaddy.click/stream/stream-54.php
 #EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsnewyorkmets" tvg-name="Baseball | MLB : Philadelphia Phillies vs New York Mets (01:15)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Philadelphia Phillies_vs_New York Mets.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs New York Mets (01:15)
 https://thedaddy.click/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="eurobasketwomenfrancewvsswitzerlandw" tvg-name="Basketball | Eurobasket Women : France W vs Switzerland W (16:30)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/France W_vs_Switzerland W.png" group-title="Eventi Live",Basketball | Eurobasket Women : France W vs Switzerland W (16:30)
-https://thedaddy.click/stream/stream-10.php
-
 #EXTINF:-1 tvg-id="wnbachicagoskywvsphoenixmercuryw" tvg-name="Basketball | WNBA : Chicago Sky W vs Phoenix Mercury W (19:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-hf-lightning/main/logos/Chicago Sky W_vs_Phoenix Mercury W.png" group-title="Eventi Live",Basketball | WNBA : Chicago Sky W vs Phoenix Mercury W (19:00)
 https://thedaddy.click/stream/stream-34.php
 
@@ -215,13 +185,13 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="jumpingparisglobalchampionstourevent7" tvg-name="Equestrian | Jumping | Paris Global Champions Tour | Event 7 (18:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/674/977/original/athletic-man-jumping-png.png" group-title="Eventi Live",Equestrian | Jumping | Paris Global Champions Tour | Event 7 (18:30)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="jumpingparisglobalchampionstourevent7" tvg-name="Equestrian | Jumping | Paris Global Champions Tour | Event 7 (18:30)" tvg-logo="https://wallpapers.com/images/hd/shaunthe-sheep-jumping-89falv9hlfeiza56.png" group-title="Eventi Live",Equestrian | Jumping | Paris Global Champions Tour | Event 7 (18:30)
+#EXTINF:-1 tvg-id="jumpingparisglobalchampionstourevent7" tvg-name="Equestrian | Jumping | Paris Global Champions Tour | Event 7 (18:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/674/977/original/athletic-man-jumping-png.png" group-title="Eventi Live",Equestrian | Jumping | Paris Global Champions Tour | Event 7 (18:30)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (18:30)
 https://thedaddy.click/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="royalascotday5" tvg-name="Horse Racing | Royal Ascot, Day 5 (19:00)" tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Royal+Ascot+Logo+2.png" group-title="Eventi Live",Horse Racing | Royal Ascot, Day 5 (19:00)
+#EXTINF:-1 tvg-id="royalascotday5" tvg-name="Horse Racing | Royal Ascot, Day 5 (19:00)" tvg-logo="https://marcobiagioli.com/wp-content/uploads/2015/07/royal-ascot-logo-black.png" group-title="Eventi Live",Horse Racing | Royal Ascot, Day 5 (19:00)
 https://thedaddy.click/stream/stream-353.php
 
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (19:30)

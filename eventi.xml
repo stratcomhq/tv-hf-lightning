@@ -34,19 +34,6 @@
     <desc lang="it">Athletes Unlimited Softball League Live</desc>
     <category lang="it">TV Shows</category>
   </programme>
-  <channel id="ChilePrimeraDivisionUninEspaolavsCoquimboUnido">
-    <display-name>Chile - Primera Division : Unión Española vs Coquimbo Unido</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="ChilePrimeraDivisionUninEspaolavsCoquimboUnido">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Chile - Primera Division : Unión Española vs Coquimbo Unido.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="ChilePrimeraDivisionUninEspaolavsCoquimboUnido">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Chile - Primera Division : Unión Española vs Coquimbo Unido</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ChilePrimeraDivisionUniversidadChilevsDeportesIquique">
     <display-name>Chile - Primera Division : Universidad Chile vs Deportes Iquique</display-name>
   </channel>
@@ -263,32 +250,6 @@
     <desc lang="it">Women's Football : WNFC IX Cup Championship: Teams TBA</desc>
     <category lang="it">AM. Football</category>
   </programme>
-  <channel id="FIMSpeedwayGPRound6GorzowHeatsandFinal">
-    <display-name>FIM Speedway GP | Round 6 | Gorzow Heats and Final</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="FIMSpeedwayGPRound6GorzowHeatsandFinal">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">FIM Speedway GP | Round 6 | Gorzow Heats and Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="FIMSpeedwayGPRound6GorzowHeatsandFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIM Speedway GP | Round 6 | Gorzow Heats and Final</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="IndyNXTSeriesGrandPrixatRoadAmericaQualifying">
-    <display-name>Indy NXT Series Grand Prix at Road America, Qualifying</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621193000 +0200" channel="IndyNXTSeriesGrandPrixatRoadAmericaQualifying">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Indy NXT Series Grand Prix at Road America, Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621193000 +0200" stop="20250621213000 +0200" channel="IndyNXTSeriesGrandPrixatRoadAmericaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indy NXT Series Grand Prix at Road America, Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmericaQualifying">
     <display-name>IndyCar Series Season The XPEL Grand Prix at Road America Qualifying</display-name>
   </channel>
@@ -394,65 +355,6 @@
     <desc lang="it">UFC Fight Night Main Card : Jamahal Hill vs Khalil Rountree Jr.</desc>
     <category lang="it">MMA</category>
   </programme>
-  <channel id="PGATourTravelersChampionship">
-    <display-name>PGA Tour Travelers Championship</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="PGATourTravelersChampionship">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">PGA Tour Travelers Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="PGATourTravelersChampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour Travelers Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="PGATourTravelersChampionship">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">PGA Tour Travelers Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="PGATourTravelersChampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">PGA Tour Travelers Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <channel id="LPGATourKPMGWomensPGAChampionship">
-    <display-name>LPGA Tour KPMG Women's PGA Championship</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <channel id="KpmgWomensPGAChampionshipDay3">
-    <display-name>Kpmg Women's PGA Championship, Day 3</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621200000 +0200" channel="KpmgWomensPGAChampionshipDay3">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Kpmg Women's PGA Championship, Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621200000 +0200" stop="20250621220000 +0200" channel="KpmgWomensPGAChampionshipDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Kpmg Women's PGA Championship, Day 3</desc>
-    <category lang="it">Golf</category>
-  </programme>
   <channel id="2025KauligCompaniesChampionshipThirdRoundLive">
     <display-name>2025 Kaulig Companies Championship Third Round Live</display-name>
   </channel>
@@ -489,43 +391,18 @@
     <desc lang="it">PGA Tour Golf Travelers Championship, Third Round</desc>
     <category lang="it">Golf</category>
   </programme>
-  <programme start="20250621210000 +0200" stop="20250622000000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Inizia alle 00:00.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250622000000 +0200" stop="20250622020000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20250622000000 +0200" stop="20250622020000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">LPGA Tour KPMG Women's PGA Championship</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <channel id="MLBNewYorkYankeesvsBaltimoreOrioles">
-    <display-name>MLB : New York Yankees vs Baltimore Orioles</display-name>
+  <channel id="LPGATourKPMGWomensPGAChampionship">
+    <display-name>LPGA Tour KPMG Women's PGA Championship</display-name>
   </channel>
-  <programme start="20250621000000 +0200" stop="20250621190500 +0200" channel="MLBNewYorkYankeesvsBaltimoreOrioles">
-    <title lang="it">Inizia alle 19:05.</title>
-    <desc lang="it">MLB : New York Yankees vs Baltimore Orioles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190500 +0200" stop="20250621210500 +0200" channel="MLBNewYorkYankeesvsBaltimoreOrioles">
+  <programme start="20250622000000 +0200" stop="20250622020000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MLB : New York Yankees vs Baltimore Orioles</desc>
-    <category lang="it">Baseball</category>
+    <desc lang="it">LPGA Tour KPMG Women's PGA Championship</desc>
+    <category lang="it">Golf</category>
   </programme>
-  <programme start="20250621000000 +0200" stop="20250621190500 +0200" channel="MLBNewYorkYankeesvsBaltimoreOrioles">
-    <title lang="it">Inizia alle 19:05.</title>
-    <desc lang="it">MLB : New York Yankees vs Baltimore Orioles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190500 +0200" stop="20250621210500 +0200" channel="MLBNewYorkYankeesvsBaltimoreOrioles">
+  <programme start="20250622000000 +0200" stop="20250622020000 +0200" channel="LPGATourKPMGWomensPGAChampionship">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MLB : New York Yankees vs Baltimore Orioles</desc>
-    <category lang="it">Baseball</category>
+    <desc lang="it">LPGA Tour KPMG Women's PGA Championship</desc>
+    <category lang="it">Golf</category>
   </programme>
   <channel id="MLBChicagoCubsvsSeattleMariners">
     <display-name>MLB : Chicago Cubs vs Seattle Mariners</display-name>
@@ -691,39 +568,6 @@
     <desc lang="it">MLB : Philadelphia Phillies vs New York Mets</desc>
     <category lang="it">Baseball</category>
   </programme>
-  <channel id="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <display-name>WNBA : Chicago Sky W vs Phoenix Mercury W</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">WNBA : Chicago Sky W vs Phoenix Mercury W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WNBA : Chicago Sky W vs Phoenix Mercury W</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">WNBA : Chicago Sky W vs Phoenix Mercury W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WNBA : Chicago Sky W vs Phoenix Mercury W</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">WNBA : Chicago Sky W vs Phoenix Mercury W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="WNBAChicagoSkyWvsPhoenixMercuryW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WNBA : Chicago Sky W vs Phoenix Mercury W</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <channel id="EurobasketWomenItalyWvsLithuaniaW">
     <display-name>Eurobasket Women : Italy W vs Lithuania W</display-name>
   </channel>
@@ -736,65 +580,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Eurobasket Women : Italy W vs Lithuania W</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="JumpingParisGlobalChampionsTourEvent7">
-    <display-name>Jumping | Paris Global Champions Tour | Event 7</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="JumpingParisGlobalChampionsTourEvent7">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Jumping | Paris Global Champions Tour | Event 7</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
-  <channel id="AmericasDayAttheRaces">
-    <display-name>America's Day At the Races</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621183000 +0200" channel="AmericasDayAttheRaces">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">America's Day At the Races.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621183000 +0200" stop="20250621203000 +0200" channel="AmericasDayAttheRaces">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">America's Day At the Races</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <channel id="RoyalAscotDay5">
-    <display-name>Royal Ascot, Day 5</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="RoyalAscotDay5">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Royal Ascot, Day 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="RoyalAscotDay5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Royal Ascot, Day 5</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621193000 +0200" channel="AmericasDayAttheRaces">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">America's Day At the Races.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621193000 +0200" stop="20250621213000 +0200" channel="AmericasDayAttheRaces">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">America's Day At the Races</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <channel id="PremierLacrosseLeagueNewYorkAtlasvsPhiladelphiaWaterdogs">
     <display-name>Premier Lacrosse League : New York Atlas vs. Philadelphia Waterdogs</display-name>
@@ -822,19 +607,6 @@
     <desc lang="it">Premier Lacrosse League : Boston Cannons vs. Maryland Whipsnakes</desc>
     <category lang="it">Lacrosse</category>
   </programme>
-  <channel id="MajorLeagueRugbyNewEnglandFreeJacksvsChicagoHounds">
-    <display-name>Major League Rugby : New England Free Jacks vs Chicago Hounds</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="MajorLeagueRugbyNewEnglandFreeJacksvsChicagoHounds">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Major League Rugby : New England Free Jacks vs Chicago Hounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="MajorLeagueRugbyNewEnglandFreeJacksvsChicagoHounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Major League Rugby : New England Free Jacks vs Chicago Hounds</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="Top14SemiFinalUnionBordeauxBeglesvsRCToulonnais">
     <display-name>Top 14 Semi Final : Union Bordeaux Begles vs. RC Toulonnais</display-name>
   </channel>
@@ -847,28 +619,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top 14 Semi Final : Union Bordeaux Begles vs. RC Toulonnais</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="AVPBeachVolleyballLeagueWeek4EastHamptonLive">
-    <display-name>AVP Beach Volleyball League Week 4 - East Hampton Live</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="AVPBeachVolleyballLeagueWeek4EastHamptonLive">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">AVP Beach Volleyball League Week 4 - East Hampton Live.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="AVPBeachVolleyballLeagueWeek4EastHamptonLive">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AVP Beach Volleyball League Week 4 - East Hampton Live</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621190000 +0200" channel="AVPBeachVolleyballLeagueWeek4EastHamptonLive">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">AVP Beach Volleyball League Week 4 - East Hampton Live.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621190000 +0200" stop="20250621210000 +0200" channel="AVPBeachVolleyballLeagueWeek4EastHamptonLive">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AVP Beach Volleyball League Week 4 - East Hampton Live</desc>
-    <category lang="it">Volleyball</category>
   </programme>
 </tv>
