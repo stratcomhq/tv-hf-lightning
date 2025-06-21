@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="MillionDollarZombieFlipsSeason1Episode10">
-    <display-name>Million Dollar Zombie Flips Season 1, Episode 10</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621170000 +0200" channel="MillionDollarZombieFlipsSeason1Episode10">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Million Dollar Zombie Flips Season 1, Episode 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621170000 +0200" stop="20250621190000 +0200" channel="MillionDollarZombieFlipsSeason1Episode10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Million Dollar Zombie Flips Season 1, Episode 10</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
-  <channel id="ExtraordinaryWorldWithJeffCorwinSeason1Episode13">
-    <display-name>Extraordinary World With Jeff Corwin Season 1, Episode 13</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621173000 +0200" channel="ExtraordinaryWorldWithJeffCorwinSeason1Episode13">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Extraordinary World With Jeff Corwin Season 1, Episode 13.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621173000 +0200" stop="20250621193000 +0200" channel="ExtraordinaryWorldWithJeffCorwinSeason1Episode13">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Extraordinary World With Jeff Corwin Season 1, Episode 13</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
   <channel id="HouseHuntersInternationalSeason137Episode9">
     <display-name>House Hunters International Season 137, Episode 9</display-name>
   </channel>
@@ -59,29 +33,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Athletes Unlimited Softball League Live</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <channel id="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <display-name>UEFA Euro U-21 : Portugal U21 vs Netherlands U21</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="UEFAEuroU21PortugalU21vsNetherlandsU21">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Euro U-21 : Portugal U21 vs Netherlands U21</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <channel id="ChilePrimeraDivisionUninEspaolavsCoquimboUnido">
     <display-name>Chile - Primera Division : Unión Española vs Coquimbo Unido</display-name>
@@ -312,65 +263,6 @@
     <desc lang="it">Women's Football : WNFC IX Cup Championship: Teams TBA</desc>
     <category lang="it">AM. Football</category>
   </programme>
-  <channel id="ATPandWTAATPLondonandWTABerlinConferenceDay6">
-    <display-name>ATP and WTA: ATP London and WTA Berlin Conference, Day 6</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621161900 +0200" channel="ATPandWTAATPLondonandWTABerlinConferenceDay6">
-    <title lang="it">Inizia alle 16:19.</title>
-    <desc lang="it">ATP and WTA: ATP London and WTA Berlin Conference, Day 6.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621161900 +0200" stop="20250621181900 +0200" channel="ATPandWTAATPLondonandWTABerlinConferenceDay6">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP and WTA: ATP London and WTA Berlin Conference, Day 6</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621161900 +0200" channel="ATPandWTAATPLondonandWTABerlinConferenceDay6">
-    <title lang="it">Inizia alle 16:19.</title>
-    <desc lang="it">ATP and WTA: ATP London and WTA Berlin Conference, Day 6.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621161900 +0200" stop="20250621181900 +0200" channel="ATPandWTAATPLondonandWTABerlinConferenceDay6">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP and WTA: ATP London and WTA Berlin Conference, Day 6</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmerica2ndPractice">
-    <display-name>IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621170000 +0200" channel="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmerica2ndPractice">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621170000 +0200" stop="20250621190000 +0200" channel="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmerica2ndPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621170000 +0200" channel="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmerica2ndPractice">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621170000 +0200" stop="20250621190000 +0200" channel="IndyCarSeriesSeasonTheXPELGrandPrixatRoadAmerica2ndPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IndyCar Series Season The XPEL Grand Prix at Road America 2nd Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="BritishGTChampionshipBlancpainGTCircuitdeSpaFrancorchampsQualifying">
-    <display-name>British GT Championship - Blancpain GT Circuit de Spa Francorchamps Qualifying</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="BritishGTChampionshipBlancpainGTCircuitdeSpaFrancorchampsQualifying">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">British GT Championship - Blancpain GT Circuit de Spa Francorchamps Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="BritishGTChampionshipBlancpainGTCircuitdeSpaFrancorchampsQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">British GT Championship - Blancpain GT Circuit de Spa Francorchamps Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="FIMSpeedwayGPRound6GorzowHeatsandFinal">
     <display-name>FIM Speedway GP | Round 6 | Gorzow Heats and Final</display-name>
   </channel>
@@ -468,29 +360,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top Rank Boxing : Vito Mielnicki Jr vs Kamil Gardzielik</desc>
     <category lang="it">Boxing</category>
-  </programme>
-  <channel id="UFCFightNightPrelimsSeokHyeonKovsObanElliott">
-    <display-name>UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="UFCFightNightPrelimsSeokHyeonKovsObanElliott">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="UFCFightNightPrelimsSeokHyeonKovsObanElliott">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott</desc>
-    <category lang="it">MMA</category>
-  </programme>
-  <programme start="20250621000000 +0200" stop="20250621180000 +0200" channel="UFCFightNightPrelimsSeokHyeonKovsObanElliott">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621180000 +0200" stop="20250621200000 +0200" channel="UFCFightNightPrelimsSeokHyeonKovsObanElliott">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Night Prelims : Seok Hyeon Ko vs Oban Elliott</desc>
-    <category lang="it">MMA</category>
   </programme>
   <channel id="UFCFightNightMainCardJamahalHillvsKhalilRountreeJr">
     <display-name>UFC Fight Night Main Card : Jamahal Hill vs Khalil Rountree Jr.</display-name>
@@ -821,19 +690,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MLB : Philadelphia Phillies vs New York Mets</desc>
     <category lang="it">Baseball</category>
-  </programme>
-  <channel id="EurobasketWomenFranceWvsSwitzerlandW">
-    <display-name>Eurobasket Women : France W vs Switzerland W</display-name>
-  </channel>
-  <programme start="20250621000000 +0200" stop="20250621163000 +0200" channel="EurobasketWomenFranceWvsSwitzerlandW">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Eurobasket Women : France W vs Switzerland W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250621163000 +0200" stop="20250621183000 +0200" channel="EurobasketWomenFranceWvsSwitzerlandW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Eurobasket Women : France W vs Switzerland W</desc>
-    <category lang="it">Basketball</category>
   </programme>
   <channel id="WNBAChicagoSkyWvsPhoenixMercuryW">
     <display-name>WNBA : Chicago Sky W vs Phoenix Mercury W</display-name>
