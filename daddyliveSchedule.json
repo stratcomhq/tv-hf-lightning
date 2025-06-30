@@ -62,7 +62,7 @@
                 ]
             },
             {
-                "time": "21:09",
+                "time": "00:34",
                 "event": "04:0 PA Speedweek Lincoln",
                 "channels": [
                     {
@@ -4914,6 +4914,10 @@
                         "channel_id": "576"
                     },
                     {
+                        "channel_name": "Sport TV2 Portugal",
+                        "channel_id": "74"
+                    },
+                    {
                         "channel_name": "Cytavision Sports 5 Cyprus",
                         "channel_id": "915"
                     },
@@ -4936,6 +4940,10 @@
                     {
                         "channel_name": "Movistar Deportes 3 Spain",
                         "channel_id": "526"
+                    },
+                    {
+                        "channel_name": "M+ Vamos Spain",
+                        "channel_id": "521"
                     },
                     {
                         "channel_name": "Movistar Deportes 4 Spain",
@@ -4980,6 +4988,10 @@
                     {
                         "channel_name": "beIN Sports MAX 8 France",
                         "channel_id": "498"
+                    },
+                    {
+                        "channel_name": "Sport TV3 Portugal",
+                        "channel_id": "454"
                     },
                     {
                         "channel_name": "EuroSport 1 Poland",
@@ -5074,6 +5086,266 @@
                         "channel_id": "147"
                     }
                 ]
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Jerome Estephan vs Arjun Mehrotra",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Ju-Yun Jeng vs Nagomi Higashitani",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Kseniya Yersh vs Kyoka Kubo",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Olomouc (CHE) : Barbora Pokorna vs Kiara Zabkova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Jakub Medved vs Vojtech Petr",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Olomouc (CHE) : Valentina Vachkova vs Nikola Koprivova",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) - Qualifiers : Gabi Adrian Boitan vs Stefan Palosi",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) - Qualifiers : Oriol Roca Batalla vs Dan Alexandru Tomescu",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) - Qualifiers : Radu Mihai Papoe vs Dominik Kellovsky",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Olomouc (CHE) : Stepan Baum vs Cornelius Alexander Shalmi",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Olomouc (CHE) : Vojtech Vales vs Louis Gorregues",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Troyes (FRA) - Qualifiers : Arthur Reymond vs Tristan Lamasine",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Troyes (FRA) - Qualifiers : Branko Djuric vs Alejo Sanchez Quilez",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Troyes (FRA) - Qualifiers : Neil Oberleitner vs Cosme Rolland De Ravel",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) - Qualifiers : Alexander Donski vs Rares Teodor Pieleanu",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) - Qualifiers : Radu Albot vs Tomasso Compagnucci",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) - Qualifiers : Tom Paris vs Andrea Guerrieri",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Olomouc (CHE) : Imran Daniel ABD Hazli vs Tomas Quesada Perez",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Olomouc (CHE) : Mikolaj Lis vs Daniel Bien",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Olomouc (CHE) : Nicole Lukesova vs Nela Jandova",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Olomouc (CHE) : Tereza Polakova vs Lucie Petruzelova",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Olomouc (CHE) : Zuzana Kudlackova vs Kristyna Tomajkova",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Troyes (FRA) - Qualifiers : Arthur Nagel vs Niels Visker",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Troyes (FRA) - Qualifiers : Harold Mayot vs Buvaysar Gadamauri",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Troyes (FRA) - Qualifiers : Mikael Ymer vs Kenny de Schepper",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Frederico Ferreira Silva vs Matias Soto",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Sascha Wayenburg vs Santiago Rodriguez Taverna",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) - Qualifiers : Carlo Alberto Caniato vs Aristotelis Thanos",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) - Qualifiers : Moez Echargui vs Daniel Bagnolini",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) - Qualifiers : Raul Brancaccio vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Troyes (FRA) : Arthur Gea vs Gregoire Barrere",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Troyes (FRA) : Jacopo Berrettini vs Mats Rosenkranz",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Brasov (ROM) : Marko Topo vs Gabriel Ghetu",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Brasov (ROM) : Saba Purtseladze vs Alvaro Guillen Meza",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) - Qualifiers : Jakub Paul vs Stefanos Sakellaridis",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) - Qualifiers : Milos Karol vs Toby Alex Kodat",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) - Qualifiers : Stefano Travaglia vs Giovanni Fonio",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Troyes (FRA) : Thomas Faurel vs Timofey Skatov",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Brasov (ROM) : Luka Pavlovic vs Luca Preda",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Cary (USA) - Qualifiers : Alex Rybakov vs Saahith Jayaraman",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Modena (ITA) : Matej Dodig vs Juan Manuel Cerundolo",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Modena (ITA) : Roman Andres Burruchaga vs Daniel Merida Aguilar",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Modena (ITA) : Patrick Zahraj vs Facundo Diaz Acosta",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Modena (ITA) : Thiago Agustin Tirante vs Ignacio Buse",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Troyes (FRA) : Jan Choinski vs Theo Papamalamis",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Cary (USA) : Yibing Wu vs Ian Mayew",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "Challenger - Cary (USA) : Andres Andrade vs Aidan Mayo",
+                "channels": []
+            },
+            {
+                "time": "18:10",
+                "event": "Challenger - Cary (USA) : Stefan Dostanic vs Andres Martin",
+                "channels": []
+            },
+            {
+                "time": "18:40",
+                "event": "Challenger - Cary (USA) : Philip Sekulic vs Liam Draxl",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Challenger - Modena (ITA) : Federico Arnaboldi vs Daniel Elahi Galan",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Challenger - Cary (USA) : Tristan Schoolkate vs Yi Zhou",
+                "channels": []
+            },
+            {
+                "time": "22:40",
+                "event": "Challenger - Cary (USA) : Masamichi Imamura vs Patrick Kypson",
+                "channels": []
             }
         ],
         "WWE</span>": [
